@@ -1,4 +1,4 @@
-# Hi, I'm Ashraf Fathy Elkalla 👋
+# Hi, I'm Ashraf Fathy Elkalla
 
 ### Certified Junior Penetration Tester | Web & Network Security
 
@@ -11,7 +11,7 @@ reporting.
 
 ---
 
-## 🔐 Areas of Focus
+## Areas of Focus
 
 - Web Application Security
 - Internal Network Security
@@ -23,7 +23,7 @@ reporting.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### Web Security
 `Burp Suite` `OWASP Top 10`
@@ -41,7 +41,7 @@ reporting.
 
 ---
 
-## 🧪 Hands-on Practice
+## Hands-on Practice
 
 My practical work includes:
 
@@ -54,7 +54,7 @@ My practical work includes:
 
 ---
 
-## 📚 Training & Certifications
+## Training & Certifications
 
 - **eJPT — Junior Penetration Tester**
 - **eWAPT — Web Application Penetration Tester** *(In Progress)*
@@ -63,7 +63,7 @@ My practical work includes:
 
 ---
 
-## 📝 Security Write-ups
+## Security Write-ups
 
 I'm documenting my penetration testing journey through:
 
@@ -78,7 +78,7 @@ More content will be added as I progress.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Web Application Penetration Testing
 - Advanced Reconnaissance
@@ -87,6 +87,6 @@ More content will be added as I progress.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ashraf-elkalla/)
